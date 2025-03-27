@@ -36,7 +36,7 @@ Fraud detection is a critical challenge in financial and security domains. This 
 - Exploring **Explainable AI (XAI)** for transparency in fraud prediction  
 
 ## 🤝 Acknowledgments  
-Special thanks to **Nishant Sir** for his mentorship and guidance throughout the project.  
+Special thanks to **Nishant Killedar Sir** for his mentorship and guidance throughout the project.  
 
 ## 📬 Contact  
 For any questions or collaborations, feel free to reach out via **[LinkedIn](https://www.linkedin.com/in/nikhilsukthe/)**.  
